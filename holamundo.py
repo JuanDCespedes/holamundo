@@ -1,2 +1,2 @@
 holamundo.py
-git init
+print("hola")
